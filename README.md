@@ -4,3 +4,4 @@ greetings From Team Wick
 usage - python main.py <URL> <Time> <Threads> <RPS> <Proxy_File>
 
 i will add a Requirements file if you  guys want not making this repo public till June 
+
